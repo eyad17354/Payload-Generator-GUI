@@ -1,0 +1,9 @@
+cd install
+python3 requirements.cpython-312.pyc
+python3 requirements2.cpython-312.pyc
+python3 requirements3.cpython-312.pyc
+cd .. 
+python3 Payload-Generator-tcp.cpython-312.pyc
+pass:MasterAcademy
+Follow us on TELEGRAM:https://t.me/MasterAcademy1
+Follow us on YOUTUBE:http://www.youtube.com/@Master78360
